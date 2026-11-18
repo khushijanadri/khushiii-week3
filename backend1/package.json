@@ -2,8 +2,13 @@
   "name": "backend",
   "version": "1.0.0",
   "description": "",
+<<<<<<< HEAD
   "main": "index.js",
  "scripts": {
+=======
+  "main": "server.js",
+  "scripts": {
+>>>>>>> 4abb188c3258663f84d803421446081cfecf4425
   "start": "node server.js",
   "dev": "nodemon server.js"
 },
@@ -12,9 +17,18 @@
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
+<<<<<<< HEAD
     "cors": "^2.8.6",
     "express": "^5.3.0",
     "multer": "^2.5.0"
+=======
+    "bcryptjs": "^3.0.3",
+    "cors": "^2.8.6",
+    "dotenv": "^18.0.10",
+    "express": "^5.3.0",
+    "jsonwebtoken": "^9.0.3",
+    "mongoose": "^9.12.2"
+>>>>>>> 4abb188c3258663f84d803421446081cfecf4425
   },
   "devDependencies": {
     "nodemon": "^3.1.14"

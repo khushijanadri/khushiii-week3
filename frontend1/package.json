@@ -10,8 +10,15 @@
     "preview": "vite preview"
   },
   "dependencies": {
+<<<<<<< HEAD
     "react": "^19.3.1",
     "react-dom": "^19.3.1"
+=======
+    "axios": "^1.21.1",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "react-router-dom": "^7.18.5"
+>>>>>>> 4abb188c3258663f84d803421446081cfecf4425
   },
   "devDependencies": {
     "@eslint/js": "^10.0.1",
